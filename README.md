@@ -18,5 +18,5 @@ An IoT project to enable the operation staff to monitor the temperature and humi
 | Email alert sent when temperature reached/or above a predefined threshold |
 | Authentication – user need to log in with correct username and password   |
 
-Refer to below Youtube for demo and more details:
+Refer to my Youtube for demo and more details:
 https://youtu.be/BdqTqsXDfU4
